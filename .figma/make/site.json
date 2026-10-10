@@ -1,0 +1,10 @@
+{
+  "description": "Track workouts effortlessly with exercise videos and rep counters, designed for fitness enthusiasts seeking to enhance their training experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
